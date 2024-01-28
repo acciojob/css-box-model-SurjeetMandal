@@ -1,4 +1,17 @@
-.1{
-	width: 300px;
+#a{
+	padding: 30px;
+	border: 1px solid black;
+	background-color: lightblue;
+}
+#b{
+	background-color: lightblue;
+	padding: 50px;
+	border: darkcyan;
+}
+#c{
+	border: 15px solid blue;
+	margin: 20px
+}
+#d{
 	border: 1px solid black;
 }
